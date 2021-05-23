@@ -1,5 +1,19 @@
-### Hi there 👋
+### Shu-Jeng Hsieh 👋
+I'm Scott, a Sr. data engineer at 104 Corporation.
 
+an AWS Community Builder since 2020 Fall.
+5 AWS certifications at the moment
+* AWS DVA (C01)
+* AWS SOA (C01)
+* AWS SAA (C01)
+* AWS SAP (C02)
+* AWS DAS (C01)
+
+### AWS Projects
+| Projects  | Tags |
+| ------------- | ------------- |
+| [projen-simple](https://github.com/HsiehShuJeng/projen-simple) <br> An initial project for projen which makes a customized construct to be published to 4 languages repositories.  | CDK projen aws-step-functions aws-api-gateway Typescript Python Java Csharp |
+| [cdk-lambda-subminute](https://github.com/HsiehShuJeng/cdk-lambda-subminute)<br> A mechanism that make a Lambda to be invoked per time unit less than one minute | CDK aws-step-functions aws-lambda projen Typescript Python Java Csharp |
 <!--
 **HsiehShuJeng/HsiehShuJeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
