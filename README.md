@@ -1,8 +1,9 @@
 ### Shu-Jeng Hsieh 👋
-I'm Scott, a SR. data engineer at the 104 Corporation. <img align="right" src="Community%20Builder%20badge%201600px.png" width="240">
+I'm Scott, a SR. data engineer at the 104 Corporation. <img align="right" src="Community%20Builder%20badge%201600px.png" width="240">  
+Focus on data engineering and data science.   
+At the same time, pay attention to containers and DevOps.  
 
-
-an AWS Community Builder since 2020 Fall.
+An AWS Community Builder since 2020 Fall.  
 5 AWS certifications at the moment
 * AWS DVA (C01)
 * AWS SOA (C01)
@@ -10,9 +11,10 @@ an AWS Community Builder since 2020 Fall.
 * AWS SAP (C02)
 * AWS DAS (C01)
 
-### AWS Projects
+### Side Projects
 | Projects  | Tags |
 | ------------- | ------------- |
+| [cloud-front-plus](https://github.com/pahud/cdk-cloudfront-plus) <br> CDK constructs library that allows you to build [AWS CloudFront Extensions](https://github.com/awslabs/aws-cloudfront-extensions) in JavaScript, TypeScript or Python. | CDK aws-cloudfront lambda@edge TypeScript Python |
 | [projen-simple](https://github.com/HsiehShuJeng/projen-simple) <br> An initial project for projen which makes a customized construct to be published to 4 languages repositories.  | CDK projen aws-step-functions aws-api-gateway Typescript Python Java Csharp |
 | [cdk-lambda-subminute](https://github.com/HsiehShuJeng/cdk-lambda-subminute)<br> A mechanism that make a Lambda to be invoked per time unit less than one minute | CDK aws-step-functions aws-lambda projen Typescript Python Java Csharp |
 <!--
