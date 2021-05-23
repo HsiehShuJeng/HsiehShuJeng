@@ -1,5 +1,6 @@
 ### Shu-Jeng Hsieh 👋
-I'm Scott, a Sr. data engineer at 104 Corporation.
+I'm Scott, a SR. data engineer at the 104 Corporation. <img align="right" src="Community%20Builder%20badge%201600px.png" width="240">
+
 
 an AWS Community Builder since 2020 Fall.
 5 AWS certifications at the moment
