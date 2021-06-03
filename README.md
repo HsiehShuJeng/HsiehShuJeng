@@ -18,6 +18,7 @@ An AWS Community Builder since 2020 Fall.
 | [**cloud-front-plus**](https://github.com/pahud/cdk-cloudfront-plus) <br> CDK constructs library that allows you to build [AWS CloudFront Extensions](https://github.com/awslabs/aws-cloudfront-extensions) in JavaScript, TypeScript or Python. | CDK aws-cloudfront lambda@edge TypeScript Python |
 | [**projen-simple**](https://github.com/HsiehShuJeng/projen-simple) <br> An initial project for projen which makes a customized construct to be published to 4 languages repositories.  | CDK projen aws-step-functions aws-api-gateway Typescript Python Java Csharp |
 | [**cdk-lambda-subminute**](https://github.com/HsiehShuJeng/cdk-lambda-subminute)<br> A mechanism that make a Lambda to be invoked per time unit less than one minute | CDK aws-step-functions aws-lambda projen Typescript Python Java Csharp |
+| [**cdk-databrew-cicd**](https://github.com/HsiehShuJeng/cdk-databrew-cicd)<br> A CodePipeline pipeline with DataBrew for CICD | CDK aws-codepipeline aws-codecommit aws-lambda aws-cloudwatch projen cdk jsii Typescript Python Java Csharp |  
 
 ### Sharing in the Communities  
 | Forms or Names | Where |
