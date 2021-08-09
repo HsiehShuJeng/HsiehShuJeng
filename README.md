@@ -5,12 +5,13 @@ Focus on data engineering and data science.
 At the same time, pay attention to containers and DevOps.  
 
 An AWS Community Builder since 2020 Fall.  
-5 AWS certifications at the moment
+6 AWS certifications at the moment  
 * AWS DVA (C01)
 * AWS SOA (C01)
 * AWS SAA (C02)
 * AWS SAP (C01)
-* AWS DAS (C01)
+* AWS DAS (C01)  
+* AWS DOP (C01)  
 
 ### Side Projects
 | Projects  | Tags |
