@@ -6,7 +6,7 @@ At the same time, pay attention to containers and DevOps.
 
 An AWS Community Builder since 2020 Fall.  
 10 AWS certifications at the moment  
-[![image](/images/scott%20certificates.png)]()
+[![image](/images/scott%20certificates.png)](https://github.com/HsiehShuJeng/HsiehShuJeng/raw/main/images/scott%20certificates.png)
 
 ### Side Projects
 | Projects  | Tags |
