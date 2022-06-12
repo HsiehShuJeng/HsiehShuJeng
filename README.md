@@ -16,7 +16,7 @@ An AWS Community Builder since 2020 Fall.
 | [**cdk-lambda-subminute**](https://github.com/HsiehShuJeng/cdk-lambda-subminute)<br> A mechanism that make a Lambda to be invoked per time unit less than one minute | CDK aws-step-functions aws-lambda projen Typescript Python Java Csharp |
 | [**cdk-databrew-cicd**](https://github.com/HsiehShuJeng/cdk-databrew-cicd)<br> A CodePipeline pipeline with DataBrew for CICD | CDK aws-codepipeline aws-codecommit aws-lambda aws-cloudwatch projen cdk jsii Typescript Python Java Csharp |  
 | [**cdk-comprehend-s3olap**](https://github.com/HsiehShuJeng/cdk-comprehend-s3olap)<br> Amazon Comprehend with Amazon S3 Object Lambda for PII scenarios | CDK machine-learning amazon-comprehend aws-s3objectlambda aws-lambda projen cdk jsii Typescript Python Java Csharp |  
-| [**cdk-emrserverless-with-delta-lake**](https://github.com/HsiehShuJeng/cdk-emrserverless-with-delta-lake.git)| Interactions with EMR Serverless and EMR Notebooks| CDK aws-service-catalog emr-serverless emr-studio projen cdk jsii Typescript Python Java Csharp|  
+| [**cdk-emrserverless-with-delta-lake**](https://github.com/HsiehShuJeng/cdk-emrserverless-with-delta-lake.git)<br> Interaction with EMR Serverless applications for [Delta Lake](https://delta.io/) and EMR Notebooks| CDK aws-service-catalog emr-serverless emr-studio projen cdk jsii Typescript Python Java Csharp|  
 
 ### Sharing in the Communities  
 | Forms or Names | Where |
