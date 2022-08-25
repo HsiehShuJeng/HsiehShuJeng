@@ -5,6 +5,7 @@ Focus on data engineering and data science.
 At the same time, pay attention to containers and DevOps.  
 
 An AWS Community Builder since 2020 Fall.  
+An AWS Community Data Hero since 2022 August.
 10 AWS certifications at the moment  
 [![image](/images/scott%20certificates.png)](https://github.com/HsiehShuJeng/HsiehShuJeng/raw/main/images/scott%20certificates.png)
 
