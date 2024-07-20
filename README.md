@@ -6,7 +6,7 @@ At the same time, pay attention to containers and DevOps.
 
 An AWS Community Builder since 2020 Fall.  
 An [AWS Community Data Hero](https://aws.amazon.com/developer/community/heroes/?community-heroes-all.sort-by=item.additionalFields.sortPosition&community-heroes-all.sort-order=asc&awsf.filter-hero-category=*all&awsf.filter-location=*all&awsf.filter-year=*all&awsf.filter-activity=*all&community-heroes-all.q=Scott%2BHsieh&community-heroes-all.q_operator=AND) since [2022 August](https://aws.amazon.com/blogs/aws/announcing-the-latest-aws-heroes-august-2022/).  
-10 AWS certifications at the moment  
+12 AWS certifications at the moment  
 [![image](/images/scott%20certificates.png)](https://github.com/HsiehShuJeng/HsiehShuJeng/raw/main/images/scott%20certificates.png)  
 [![Scott Hsieh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HsiehShuJeng&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=HsiehShuJeng&show_icons=true&theme=tokyonight)  
 
